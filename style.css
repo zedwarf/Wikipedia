@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: times;
+  font-size: 20px;
+  line-height: 1.5;
+}
+header {
+  background: url(http://www.predatornutrition.com/wp-articles/wp-content/uploads/Arny%20Biceps.jpg);
+}
+header h1 {
+  height: 400px;
+  line-height: 400px;
+  color: white;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 150px;
+  text-align: center;
+  text-shadow: 0 5px 2px green;
+}
+section,
+aside {
+  width: 65%;
+  margin: 5em auto;
+}
